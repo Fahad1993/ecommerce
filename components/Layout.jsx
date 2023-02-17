@@ -20,6 +20,8 @@ const Layout = ({ children }) => {
         <Footer />
       </footer>
     </div>
+
+
   )
 }
 
